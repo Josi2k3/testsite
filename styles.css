@@ -2071,6 +2071,7 @@ a:hover {
     grid-template-columns: 1fr;
   }
 }
+
 /* Dropdown Menu Styles */
 .dropdown {
   position: relative;
@@ -2278,3 +2279,4 @@ a:hover {
     grid-template-columns: 1fr;
   }
 }
+  
